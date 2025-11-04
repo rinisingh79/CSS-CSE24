@@ -1,0 +1,24 @@
+p{
+    color :blueviolet;
+    padding: 5px ;
+   
+}
+body{
+    background-color: palevioletred;
+    text-align: center;
+}
+
+.hh{
+    background-color:pink;
+}
+
+#ii{
+    background-color: rgb(144, 103, 103);
+}
+#yy{
+    background-color: brown;
+}
+
+#uu{
+    background-color: antiquewhite;
+}
