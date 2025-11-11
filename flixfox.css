@@ -1,0 +1,34 @@
+.container{
+    flex direction: row-reverse;
+    display: flex;
+    border: 1px solid black;
+    height: 200px;
+    width: 800px;
+    background-color: aqua;
+    justify-content:flex-end;
+    justify-content: centre;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items:flex-end;
+    align-items:stretch;
+    align-items:baseline;
+    align-items:centre;
+    align-content: flex-end;
+    align-content: flex-start;
+    gap: 10px;
+    row-gap: ;
+    column-gap: ;
+
+    
+
+
+}
+
+.item{
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: aqua;
+
+}
